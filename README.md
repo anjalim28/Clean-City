@@ -7,9 +7,9 @@ The present study aims to analyze the present situation of waste generation, col
 
 
 ## Screenshots
-
+<!-- 
 ![Tableau](https://github.com/anjalim28/Garbage-Collection-Analysis/blob/main/images/1.png)
-![Tableau](https://github.com/anjalim28/Garbage-Collection-Analysis/blob/main/images/3.png)
+![Tableau](https://github.com/anjalim28/Garbage-Collection-Analysis/blob/main/images/3.png) -->
 ![Tableau](https://github.com/anjalim28/Garbage-Collection-Analysis/blob/main/images/6.png)
 
 
